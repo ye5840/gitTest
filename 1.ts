@@ -1,1 +1,3 @@
 interface a {}
+
+interface c {}
